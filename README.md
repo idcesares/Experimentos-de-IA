@@ -12,7 +12,8 @@ O Emoji Scavenger Hunt é um jogo experimental baseado na Web que utiliza uma bi
 
 Ensine uma máquina utilizando a câmera do seu computador! Um site super interessante que te mostra como uma máquina aprende a classificar alguma coisa a partir de uma série de dados inseridos de uma forma divertida e prática. Não é necessário saber programar!
 
-[Teachable Machine](https://teachablemachine.withgoogle.com/v1/)
+[Teachable Machine - Versão 1](https://teachablemachine.withgoogle.com/v1/)
+[Teachable Machine - Versão 2](https://teachablemachine.withgoogle.com/)
 
 ## ✍️ Quick, Draw! (Rápido, desenhe!) [JOGO]
 
