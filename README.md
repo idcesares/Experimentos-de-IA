@@ -1,5 +1,4 @@
-# Experimentos-de-IA
-# Experimentos de Inteligência Artificial
+# Experimentos Práticos de Inteligência Artificial
 
 > Por vezes a Inteligência Artificial pode parecer algo muito intangível ou complexo demais para entender, aprender e utilizar. Através do conjunto de experimentos práticos a seguir, vamos acompanhar diversas implementações super divertidas e bem lúdicas feitas por uma comunidade ativa de desenvolvedores. **Tudo isso sem precisar saber programar** 😉.
 
