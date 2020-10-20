@@ -62,3 +62,9 @@ Crie batidas eletrônicas utilizando sons do dia-a-dia. Clique no som que você 
 Um jogo que utiliza Inteligência Artificial para associar palavras e contextos.
 
 [Semantris](https://research.google.com/semantris/)
+
+## 🎤 FreddieMeter [JOGO]
+
+Um desafio de canto com IA que avalia o quão próximo seu canto se compara com a voz de Freddie Mercury
+
+[FreddieMeter](https://freddiemeter.withyoutube.com/)
