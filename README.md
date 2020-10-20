@@ -43,7 +43,7 @@ Aponte a câmera de seu celular ou webcam para um objeto e ouça seu nome em out
 
 Use sua câmera para fazer música! Tire foto de um objeto e veja uma música sendo criada em tempo real.
 
-[](https://experiments.withgoogle.com/ai/giorgio-cam/view/)
+[Giorgio Cam](https://experiments.withgoogle.com/ai/giorgio-cam/view/)
 
 ## 📚 Talk to Books (Fale com Livros) [SITE]
 
