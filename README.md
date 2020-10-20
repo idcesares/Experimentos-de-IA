@@ -14,6 +14,12 @@ Use imagens treinadas no navegador para jogar Pac-Man com o seu navegador
 
 [Pac Man Webcam](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
 
+## 😮 Extrator de Emoções [SITE - Inglês]
+
+Envie uma foto e veja quem está feliz por estar lá. Esta demonstração usa Tensorflow.js e redes neurais para detectar rostos e classificar emoções.
+
+[Extrator de Emoções](https://brendansudol.com/faces/)
+
 
 ## 👾 Emoji Scavenger Hunt [JOGO]
 
