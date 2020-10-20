@@ -2,7 +2,20 @@
 
 > Por vezes a Inteligência Artificial pode parecer algo muito intangível ou complexo demais para entender, aprender e utilizar. Através do conjunto de experimentos práticos a seguir, vamos acompanhar diversas implementações super divertidas e bem lúdicas feitas por uma comunidade ativa de desenvolvedores. **Tudo isso sem precisar saber programar** 😉.
 
-## 👾 Emoji Scavenger Hunt 👾 [JOGO]
+## 🎙️ LipSync do Youtube [JOGO]
+
+Veja como está sua sincronização no lip sync do sucesso "Dance Monkey." Essa experiência no navegador usa o modelo Facemesh para estimar os pontos principais em volta dos lábios e medir a precisão do lip sync.
+
+[LipSync do Youtube](https://lipsync.withyoutube.com/)
+
+## 🕹️ Pac Man Webcam [JOGO]
+
+Use imagens treinadas no navegador para jogar Pac-Man com o seu navegador
+
+[Pac Man Webcam](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
+
+
+## 👾 Emoji Scavenger Hunt [JOGO]
 
 O Emoji Scavenger Hunt é um jogo experimental baseado na Web que utiliza uma biblioteca de aprendizado de máquina para identificar objetos vistos pela sua webcam ou câmera do celular no navegador. No jogo é exibido um emoji e você precisa encontrar esse objeto no mundo real antes que o tempo acabe.
 
