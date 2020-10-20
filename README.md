@@ -68,3 +68,9 @@ Um jogo que utiliza Inteligência Artificial para associar palavras e contextos.
 Um desafio de canto com IA que avalia o quão próximo seu canto se compara com a voz de Freddie Mercury
 
 [FreddieMeter](https://freddiemeter.withyoutube.com/)
+
+## 📝 Escreva com Transformers [SITE - Inglês]
+
+Coloque uma rede neural moderna para autocompletar seus pensamentos ao escrever.
+
+[Hugging Face - Write With Transformers](https://transformer.huggingface.co/doc/gpt2-large)
