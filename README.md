@@ -128,3 +128,33 @@ Um desafio de canto com IA que avalia o quão próximo seu canto se compara com 
 Coloque uma rede neural moderna para autocompletar seus pensamentos ao escrever.
 
 [Hugging Face - Write With Transformers](https://transformer.huggingface.co/doc/gpt2-large)
+
+## 🖥️ Runway ML
+Crie e implante projetos de machine learning/deep learning com pouca ou nenhuma codificação.
+
+[Runway ML](https://runwayml.com/)
+
+## 📝 Claude.ai
+ Converse com um assistente de IA treinado pela Anthropic para ser útil, honesto e inofensivo.
+
+[Claude.ai](https://claude.ai/)
+
+## 📝 Perplexity AI
+Perplexity é uma ferramenta de escrita criativa que usa a IA para ajudar você a escrever diversos tipos de textos.
+
+[Perplexity](https://www.perplexity.ai/)
+
+## 🧍 Character AI
+Aplicativo web de chatbot de modelo de linguagem neural que pode gerar respostas de texto semelhantes a humanos e participar de conversas contextuais com base no personagem selecionado.
+
+[Character AI](https://character.ai/)
+
+## 🔎 Consensus App
+Consensus é um mecanismo de busca alimentado por inteligência artificial que ajuda a encontrar insights em artigos de pesquisa. Ele usa aprendizado de máquina para resumir e extrair respostas baseadas em evidências de mais de 200 milhões de artigos científicos.
+
+[Consensus App](https://consensus.app/)
+
+## 🔎 Scite
+Scite é uma plataforma de pesquisa que usa inteligência artificial para ajudar a encontrar insights em artigos científicos.
+
+[Scite](https://scite.ai/)
