@@ -193,3 +193,8 @@ O Deep Nostalgia é uma ferramenta inovadora que utiliza IA para trazer suas fot
 O SombraZoo é uma experiência interativa de IA que transforma a arte de fazer sombras com as mãos em um jogo educativo e divertido para todas as idades.
 
 [SombraZoo](https://shadowart.withgoogle.com/?lang=pt-br)
+
+## 📹 HeyGen
+Heygen é uma ferramenta de geração de vídeos AI que permite criar vídeos de qualidade de estúdio com avatares e vozes gerados por IA. A plataforma é versátil, atendendo a diversas necessidades de equipes e indivíduos, seja para engajar, explicar ou entreter
+
+[HeyGen](https://heygen.com/)
