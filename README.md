@@ -9,7 +9,7 @@ O ChatGPT é um assistente de escrita criativo com Inteligência Artificial capa
 [ChatGPT](https://chat.openai.com/)
 
 ## 🎨 Midjourney
-Midjourney é um dos muitos modelos de _texto para imagem_ construídos sobre uma arquitetura de rede neural. A arte e as imagens que você pode criar com a ferramenta e a maneira como ela lida com as solicitações complexas é quase que de outro mundo.
+Midjourney é um dos muitos modelos de texto para imagem construídos sobre uma arquitetura de rede neural. A arte e as imagens que você pode criar com a ferramenta e a maneira como ela lida com as solicitações complexas é quase que de outro mundo.
 
 [Midjourney](https://midjourney.com/)
 
@@ -21,7 +21,7 @@ O Github Copilot é uma ferramenta de autocompletar que usa Inteligência Artifi
 ## 🎨 DALL-E
 DALL·E também é um modelo de IA que pode criar imagens a partir de texto. Ele foi treinado para gerar imagens a partir de descrições de texto, como "um gato sentado em uma mesa" ou "um homem em um capacete de astronauta".
 
-[DAll-E](https://openai.com/dall-e-2/)
+[DAll-E](https://openai.com/dall-e-3/)
 
 ## 🤳 This Person Does Not Exist
 Este site mostra imagens de pessoas que não existem. As imagens são geradas por uma rede neural treinada com milhões de imagens de pessoas reais.
@@ -158,3 +158,38 @@ Consensus é um mecanismo de busca alimentado por inteligência artificial que a
 Scite é uma plataforma de pesquisa que usa inteligência artificial para ajudar a encontrar insights em artigos científicos.
 
 [Scite](https://scite.ai/)
+
+## 🌐 Wolfram Alpha
+Um motor de conhecimento computacional que responde a perguntas feitas em linguagem natural com respostas baseadas em fatos calculados. Ótimo para resolver problemas complexos em diversas áreas como matemática, ciência e engenharia.
+
+[Wolfram Alpha](https://www.wolframalpha.com/)
+
+## 🗣️ DeepL Translator
+Um tradutor poderoso que utiliza IA para traduzir textos com alta precisão e naturalidade. Ele suporta vários idiomas e é conhecido por suas traduções contextuais precisas.
+
+[DeepL Translator](https://www.deepl.com/translator)
+
+## 📱 Synthesia
+Uma plataforma que cria vídeos com avatares que falam, usando IA para gerar movimento labial e voz sincronizados a partir de texto. Ideal para criar apresentações, vídeos educativos ou mensagens personalizadas.
+
+[Synthesia](https://www.synthesia.io/)
+
+## 🧠 Brain.fm
+Um serviço que usa IA para criar músicas que ajudam a melhorar a concentração, relaxamento e sono. A música é projetada para influenciar os padrões cerebrais do ouvinte.
+
+[Brain.fm](https://www.brain.fm/)
+
+## 🗣️ Eleven Labs
+Eleven Labs é uma plataforma avançada de síntese de voz que utiliza Inteligência Artificial para gerar vozes realistas e personalizadas. Permite criar vozes únicas para diferentes aplicações, como audiobooks, podcasts, assistentes virtuais, ou até mesmo para dar voz a personagens animados. Com a capacidade de ajustar entonação, ritmo, e emoção, Eleven Labs destaca-se por oferecer uma experiência de áudio altamente natural e adaptável.
+
+[Eleven Labs](https://elevenlabs.io/)
+
+## 📸 Deep Nostalgia
+O Deep Nostalgia é uma ferramenta inovadora que utiliza IA para trazer suas fotos antigas à vida. Imagine ver seus antepassados movendo-se, sorrindo e piscando como se estivessem ali com você. Esta ferramenta de IA analisa fotografias históricas e cria animações realistas dos rostos nelas.
+
+[Deep Nostalgia](https://www.myheritage.com.br/deep-nostalgia)
+
+## 🐾 SombraZoo
+O SombraZoo é uma experiência interativa de IA que transforma a arte de fazer sombras com as mãos em um jogo educativo e divertido para todas as idades.
+
+[SombraZoo](https://shadowart.withgoogle.com/?lang=pt-br)
