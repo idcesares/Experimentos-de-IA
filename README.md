@@ -1,200 +1,339 @@
-# Experimentos Práticos de Inteligência Artificial
+# 🧪 Experimentos Práticos de Inteligência Artificial
 
-> Às vezes, a inteligência artificial pode parecer algo intangível ou complexo demais para entender, aprender e aplicar. Mas, com o conjunto de experimentos práticos que se seguem, acompanharemos várias implementações divertidas e lúdicas feitas por uma comunidade ativa de desenvolvedores. Venha se aventurar neste mundo de possibilidades e descubra até onde a IA pode nos levar! **Tudo isso sem precisar saber programar** 😉.
+![Atualizado](https://img.shields.io/badge/atualizado-julho%202026-blueviolet)
+![PRs bem-vindos](https://img.shields.io/badge/PRs-bem--vindos-brightgreen)
+![Sem programação](https://img.shields.io/badge/programa%C3%A7%C3%A3o-n%C3%A3o%20%C3%A9%20preciso-lightgrey)
 
+> Às vezes, a inteligência artificial pode parecer algo intangível ou complexo demais para entender, aprender e aplicar. Mas, com o conjunto de experimentos práticos que se seguem, você vai brincar com dezenas de ferramentas reais, feitas por empresas e comunidades ativas de desenvolvedores. Venha se aventurar neste mundo de possibilidades e descubra até onde a IA pode nos levar! **Tudo isso sem precisar saber programar** 😉.
 
-## 💬 ChatGPT
-O ChatGPT é um assistente de escrita criativo com Inteligência Artificial capaz de responder a qualquer pergunta e produzir conteúdo de alta qualidade, desde um post de blog, uma poesia, um ensaio, um e-mail ou qualquer outra coisa. Já é considerada a ferramenta de escrita criativa generativa mais utilizada no mundo.
+Este é um repositório **vivo**: a lista é revisada periodicamente para tirar links quebrados/descontinuados e trazer ferramentas novas relevantes. Se algo aqui parou de funcionar ou você conhece um experimento divertido que devia estar na lista, abra uma issue ou um PR — veja [Como contribuir](#como-contribuir) no fim da página.
 
-[ChatGPT](https://chat.openai.com/)
+---
 
-## 🎨 Midjourney
-Midjourney é um dos muitos modelos de texto para imagem construídos sobre uma arquitetura de rede neural. A arte e as imagens que você pode criar com a ferramenta e a maneira como ela lida com as solicitações complexas é quase que de outro mundo.
+## Sumário
 
-[Midjourney](https://midjourney.com/)
+- [💬 Chatbots & Assistentes de IA](#-chatbots--assistentes-de-ia)
+- [🎨 Geração de Imagens](#-geração-de-imagens)
+- [🎬 Vídeo & Avatares](#-vídeo--avatares)
+- [🎙️ Voz, Música & Áudio](#-voz-música--áudio)
+- [🕹️ Experimentos Lúdicos no Navegador](#-experimentos-lúdicos-no-navegador)
+- [💻 Codificação com IA](#-codificação-com-ia)
+- [🤖 Agentes Autônomos & Automação](#-agentes-autônomos--automação)
+- [🔎 Pesquisa & Conhecimento](#-pesquisa--conhecimento)
+- [🎲 Criativos & Diversos](#-criativos--diversos)
+- [Como contribuir](#como-contribuir)
 
-## 💻 Github Copilot
-O Github Copilot é uma ferramenta de autocompletar que usa Inteligência Artificial para ajudar desenvolvedores a escrever código. Ele é capaz de preencher trechos de código com base em uma descrição do que você está tentando fazer ou criar um código inteiro a partir de uma requisição mais elaborada.
+---
 
-[Github Copilot](https://copilot.github.com/)
+## 💬 Chatbots & Assistentes de IA
 
-## 🎨 DALL-E
-DALL·E também é um modelo de IA que pode criar imagens a partir de texto. Ele foi treinado para gerar imagens a partir de descrições de texto, como "um gato sentado em uma mesa" ou "um homem em um capacete de astronauta".
+### ChatGPT
+O assistente da OpenAI que popularizou a IA generativa para o público em geral. Responde perguntas, escreve, programa, analisa imagens e arquivos, e hoje também navega e executa tarefas por conta própria em modo agente.
 
-[DAll-E](https://openai.com/dall-e-3/)
+[ChatGPT](https://chatgpt.com/)
 
-## 🤳 This Person Does Not Exist
-Este site mostra imagens de pessoas que não existem. As imagens são geradas por uma rede neural treinada com milhões de imagens de pessoas reais.
-
-[This Person Does Not Exist](https://thispersondoesnotexist.com/)
-
-## ✏️ AutoDraw
-AutoDraw é uma ferramenta de desenho que usa redes neurais para ajudar você a desenhar. Basta desenhar uma linha e a ferramenta tentará prever o que você está tentando desenhar. Você pode usar o AutoDraw para desenhar qualquer coisa, como um diagrama, um esboço ou um desenho.
-
-[AutoDraw](https://www.autodraw.com/)
-
-## 📷 Thing Translator
-Thing Translator é um aplicativo que usa a tecnologia de reconhecimento de imagem para traduzir objetos em tempo real. Basta apontar a câmera para um objeto e o aplicativo irá traduzir o nome do objeto para o idioma que você escolher.
-
-[Thing Translator](https://thing-translator.appspot.com/)
-
-## 🎙️ LipSync do Youtube
-
-Veja como está sua sincronização no lip sync do sucesso "Dance Monkey." Essa experiência no navegador usa o modelo Facemesh para estimar os pontos principais em volta dos lábios e medir a precisão do lip sync.
-
-[LipSync do Youtube](https://lipsync.withyoutube.com/)
-
-## 🕹️ Pac Man Webcam
-
-Use imagens treinadas no navegador para jogar Pac-Man com o seu navegador
-
-[Pac Man Webcam](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
-
-## 😮 Extrator de Emoções
-Envie uma foto e veja quem está feliz por estar lá. Esta demonstração usa Tensorflow.js e redes neurais para detectar rostos e classificar emoções.
-
-[Extrator de Emoções](https://brendansudol.com/faces/)
-
-
-## 👾 Emoji Scavenger Hunt
-
-O Emoji Scavenger Hunt é um jogo experimental baseado na Web que utiliza uma biblioteca de aprendizado de máquina para identificar objetos vistos pela sua webcam ou câmera do celular no navegador. No jogo é exibido um emoji e você precisa encontrar esse objeto no mundo real antes que o tempo acabe.
-
-[Emoji Scavenger Hunt](https://emojiscavengerhunt.withgoogle.com/)
-
-## ⚙️ Teachable Machine da Google
-
-Ensine uma máquina utilizando a câmera do seu computador! Um site super interessante que te mostra como uma máquina aprende a classificar alguma coisa a partir de uma série de dados inseridos de uma forma divertida e prática. Não é necessário saber programar!
-
-[Teachable Machine - Versão 1](https://teachablemachine.withgoogle.com/v1/)
-[Teachable Machine - Versão 2](https://teachablemachine.withgoogle.com/)
-
-## ✍️ Quick, Draw! (Rápido, desenhe!)
-
-Será que uma rede neural consegue aprender a reconhecer seus desenhos? Ajude a ensinar a rede adicionando seus desenhos ao [maior conjunto de dados sobre desenhos do mundo](https://quickdraw.withgoogle.com/data) (em inglês). Esses dados são compartilhados com o público para ajudar nas pesquisas sobre aprendizado de máquina.
-
-[Rápido, desenhe!](https://quickdraw.withgoogle.com/?locale=pt_BR)
-
-## 🎻Semi-conductor
-
-Conduza sua própria orquestra utilizando o seu navegador, uma webcam e os seus braços!
-
-[Semi-Conductor](https://semiconductor.withgoogle.com/)
-
-## 🎨 Cocrie uma obra de arte com uma Rede Neural
-
-Um novo tipo de rede neural, chamada de rede adversativa generativa (GAN), pode ser usada para criar saídas complexas, como imagens fotorrealistas. Como as GANs fazem isso e podemos influenciar o que eles produzem? Tente pintar com uma GAN abaixo para colaborar e criar sua própria imagem personalizada.
-
-[Paint with Neurons -- IBM Research](https://gan-paint-demo.mybluemix.net/)
-
-## 🔍Thing Translator (Tradutor de coisas)
-
-Aponte a câmera de seu celular ou webcam para um objeto e ouça seu nome em outra língua.
-
-[Thing Translator](https://thing-translator.appspot.com/)
-
-## 📷 Giorgio Cam
-
-Use sua câmera para fazer música! Tire foto de um objeto e veja uma música sendo criada em tempo real.
-
-[Giorgio Cam](https://experiments.withgoogle.com/ai/giorgio-cam/view/)
-
-## 📚 Talk to Books (Fale com Livros)
-
-Uma nova forma de pesquisar passagens de livros utilizando uma Inteligência Artificial experimental. Escreva na barra de busca como se estivesse falando com um livro e veja os resultados obtidos.
-
-[Talk to Books](https://books.google.com/talktobooks/)
-
-## 🥁 The Infinity Drum Machine (A máquina de batidas infinitas)
-
-Crie batidas eletrônicas utilizando sons do dia-a-dia. Clique no som que você quer usar e faça seu remix.
-
-[The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
-
-## 💬 Semantris
-
-Um jogo que utiliza Inteligência Artificial para associar palavras e contextos.
-
-[Semantris](https://research.google.com/semantris/)
-
-## 🎤 FreddieMeter
-
-Um desafio de canto com IA que avalia o quão próximo seu canto se compara com a voz de Freddie Mercury
-
-[FreddieMeter](https://freddiemeter.withyoutube.com/)
-
-## 📝 Escreva com Transformers
-
-Coloque uma rede neural moderna para autocompletar seus pensamentos ao escrever.
-
-[Hugging Face - Write With Transformers](https://transformer.huggingface.co/doc/gpt2-large)
-
-## 🖥️ Runway ML
-Crie e implante projetos de machine learning/deep learning com pouca ou nenhuma codificação.
-
-[Runway ML](https://runwayml.com/)
-
-## 📝 Claude.ai
- Converse com um assistente de IA treinado pela Anthropic para ser útil, honesto e inofensivo.
+### Claude
+O assistente de IA da Anthropic, conhecido por respostas cuidadosas, boa escrita e por ser especialmente forte em programação. Tem versão web, apps de desktop/mobile e a ferramenta de terminal Claude Code (veja na seção de codificação).
 
 [Claude.ai](https://claude.ai/)
 
-## 📝 Perplexity AI
-Perplexity é uma ferramenta de escrita criativa que usa a IA para ajudar você a escrever diversos tipos de textos.
+### Gemini
+O chatbot do Google, integrado ao Gmail, Docs, Drive e ao restante do ecossistema Google. Também é a porta de entrada para gerar vídeos com o Veo e imagens com o Imagen sem precisar de outra ferramenta.
+
+[Gemini](https://gemini.google.com/)
+
+### Grok
+O chatbot da xAI, embutido no X (Twitter) e disponível como app próprio. Tem um tom mais informal/direto que os concorrentes, o que o torna divertido para comparar respostas.
+
+[Grok](https://grok.com/)
+
+### Perplexity
+Um "motor de resposta" com IA: em vez de só bater papo, ele busca na web em tempo real e entrega respostas com as fontes citadas, prontas para verificar.
 
 [Perplexity](https://www.perplexity.ai/)
 
-## 🧍 Character AI
-Aplicativo web de chatbot de modelo de linguagem neural que pode gerar respostas de texto semelhantes a humanos e participar de conversas contextuais com base no personagem selecionado.
+### Character AI
+Aplicativo de chatbot que permite conversar com personagens de IA com personalidades e vozes próprias — de figuras históricas a personagens fictícios criados pela comunidade.
 
 [Character AI](https://character.ai/)
 
-## 🔎 Consensus App
-Consensus é um mecanismo de busca alimentado por inteligência artificial que ajuda a encontrar insights em artigos de pesquisa. Ele usa aprendizado de máquina para resumir e extrair respostas baseadas em evidências de mais de 200 milhões de artigos científicos.
+---
 
-[Consensus App](https://consensus.app/)
+## 🎨 Geração de Imagens
 
-## 🔎 Scite
-Scite é uma plataforma de pesquisa que usa inteligência artificial para ajudar a encontrar insights em artigos científicos.
+### Midjourney
+Um dos geradores de imagem por IA mais respeitados por qualidade artística. Funciona por texto (prompt) e produz resultados que impressionam até quem já viu de tudo em IA generativa.
 
-[Scite](https://scite.ai/)
+[Midjourney](https://www.midjourney.com/)
 
-## 🌐 Wolfram Alpha
-Um motor de conhecimento computacional que responde a perguntas feitas em linguagem natural com respostas baseadas em fatos calculados. Ótimo para resolver problemas complexos em diversas áreas como matemática, ciência e engenharia.
+### Gemini — Nano Banana
+O modelo de imagem do Google dentro do Gemini, apelidado de "Nano Banana" (hoje na versão Pro). Destaque para edições precisas — troque um elemento da foto mantendo o resto idêntico — e para misturar várias imagens em uma só cena, com texto renderizado de forma legível.
 
-[Wolfram Alpha](https://www.wolframalpha.com/)
+[Nano Banana (Gemini)](https://gemini.google/overview/image-generation/)
 
-## 🗣️ DeepL Translator
-Um tradutor poderoso que utiliza IA para traduzir textos com alta precisão e naturalidade. Ele suporta vários idiomas e é conhecido por suas traduções contextuais precisas.
+### ChatGPT — Geração de Imagens
+A geração de imagem da OpenAI (sucessora do DALL·E) hoje roda integrada ao próprio ChatGPT: basta pedir a imagem na conversa, incluindo edições e variações do que já foi gerado.
 
-[DeepL Translator](https://www.deepl.com/translator)
+[ChatGPT](https://chatgpt.com/)
 
-## 📱 Synthesia
-Uma plataforma que cria vídeos com avatares que falam, usando IA para gerar movimento labial e voz sincronizados a partir de texto. Ideal para criar apresentações, vídeos educativos ou mensagens personalizadas.
+### Ideogram
+Gerador de imagens especialmente bom em renderizar **texto legível** dentro da imagem — ótimo para logos, cartazes e memes. Tem camada gratuita generosa, sem precisar de cartão.
+
+[Ideogram](https://ideogram.ai/)
+
+### Bing Image Creator
+Gerador de imagens gratuito da Microsoft (baseado em modelos da OpenAI), com uso diário sem custo — uma boa porta de entrada para quem só quer experimentar sem assinar nada.
+
+[Bing Image Creator](https://www.bing.com/images/create)
+
+### Stability AI / Stable Diffusion
+A família de modelos abertos por trás de boa parte das ferramentas de imagem por IA do mercado. Dá para testar direto no site ou rodar localmente com controle total sobre o processo.
+
+[Stability AI](https://stability.ai/)
+
+---
+
+## 🎬 Vídeo & Avatares
+
+### Google Veo
+Modelo de geração de vídeo do Google, acessível direto pelo Gemini: descreva a cena e ele gera um clipe curto já com áudio sincronizado.
+
+[Veo (via Gemini)](https://gemini.google.com/)
+
+### Runway
+Pioneira em vídeo generativo, com controle fino de movimento de câmera e consistência de personagens entre cenas — voltada para quem quer ir além do "prompt e pronto".
+
+[Runway](https://runwayml.com/)
+
+### Kling AI
+Gerador de vídeo com camada gratuita generosa e clipes de custo baixo, boa qualidade de movimento e opção de áudio automático.
+
+[Kling AI](https://klingai.com/)
+
+### Luma Dream Machine
+Forte em física "acreditável" (água, tecido, iluminação) e em estender vídeos curtos existentes para clipes mais longos.
+
+[Luma Dream Machine](https://lumalabs.ai/dream-machine)
+
+### Pika
+Gerador de vídeo com uma das camadas gratuitas mais permissivas para uso comercial, ainda que limitada em resolução.
+
+[Pika](https://pika.art/)
+
+### HeyGen
+Cria avatares falantes realistas a partir de uma selfie curta e um roteiro de texto — vídeos de qualidade de estúdio sem câmera, estúdio ou ator.
+
+[HeyGen](https://www.heygen.com/)
+
+### Synthesia
+Plataforma de vídeos com avatares corporativos falantes, muito usada para treinamentos, tutoriais e apresentações traduzidas automaticamente para dezenas de idiomas.
 
 [Synthesia](https://www.synthesia.io/)
 
-## 🧠 Brain.fm
-Um serviço que usa IA para criar músicas que ajudam a melhorar a concentração, relaxamento e sono. A música é projetada para influenciar os padrões cerebrais do ouvinte.
-
-[Brain.fm](https://www.brain.fm/)
-
-## 🗣️ Eleven Labs
-Eleven Labs é uma plataforma avançada de síntese de voz que utiliza Inteligência Artificial para gerar vozes realistas e personalizadas. Permite criar vozes únicas para diferentes aplicações, como audiobooks, podcasts, assistentes virtuais, ou até mesmo para dar voz a personagens animados. Com a capacidade de ajustar entonação, ritmo, e emoção, Eleven Labs destaca-se por oferecer uma experiência de áudio altamente natural e adaptável.
-
-[Eleven Labs](https://elevenlabs.io/)
-
-## 📸 Deep Nostalgia
-O Deep Nostalgia é uma ferramenta inovadora que utiliza IA para trazer suas fotos antigas à vida. Imagine ver seus antepassados movendo-se, sorrindo e piscando como se estivessem ali com você. Esta ferramenta de IA analisa fotografias históricas e cria animações realistas dos rostos nelas.
+### Deep Nostalgia (MyHeritage)
+Sobe uma foto antiga de família e a IA anima o rosto — pisca, sorri, vira a cabeça — como se a pessoa estivesse ali com você. Emocionante e um pouco assustador ao mesmo tempo.
 
 [Deep Nostalgia](https://www.myheritage.com.br/deep-nostalgia)
 
-## 🐾 SombraZoo
-O SombraZoo é uma experiência interativa de IA que transforma a arte de fazer sombras com as mãos em um jogo educativo e divertido para todas as idades.
+---
 
-[SombraZoo](https://shadowart.withgoogle.com/?lang=pt-br)
+## 🎙️ Voz, Música & Áudio
 
-## 📹 HeyGen
-Heygen é uma ferramenta de geração de vídeos AI que permite criar vídeos de qualidade de estúdio com avatares e vozes gerados por IA. A plataforma é versátil, atendendo a diversas necessidades de equipes e indivíduos, seja para engajar, explicar ou entreter
+### ElevenLabs
+Plataforma de síntese de voz realista: clona vozes, narra textos com entonação natural e dá voz a personagens e assistentes com controle fino de emoção e ritmo.
 
-[HeyGen](https://heygen.com/)
+[Eleven Labs](https://elevenlabs.io/)
+
+### Suno
+Descreva uma música — letra, gênero, clima — e a IA entrega a canção pronta, com voz, instrumentação e mixagem, em menos de um minuto.
+
+[Suno](https://suno.com/)
+
+### Udio
+Gerador de música por IA com boas ferramentas de edição fina: separação de trilhas (stems), extensão de trechos e ajuste de partes específicas da faixa.
+
+[Udio](https://www.udio.com/)
+
+### Brain.fm
+Música gerada por IA e desenhada cientificamente para ajudar a focar, relaxar ou dormir, influenciando padrões cerebrais através do ritmo e da textura sonora.
+
+[Brain.fm](https://www.brain.fm/)
+
+---
+
+## 🕹️ Experimentos Lúdicos no Navegador
+
+Sem instalar nada, sem escrever uma linha de código — só abrir e brincar.
+
+### AutoDraw
+Ferramenta de desenho que usa redes neurais para adivinhar o que você está tentando desenhar e sugerir versões "profissionais" do seu rabisco em tempo real.
+
+[AutoDraw](https://www.autodraw.com/)
+
+### Quick, Draw!
+Desenhe algo em 20 segundos e veja se uma rede neural consegue adivinhar o quê — treinada com o [maior conjunto de dados de desenhos do mundo](https://quickdraw.withgoogle.com/data), aberto ao público para pesquisa.
+
+[Quick, Draw!](https://quickdraw.withgoogle.com/?locale=pt_BR)
+
+### Teachable Machine
+Treine seu próprio classificador de imagem, som ou pose usando a webcam do computador, sem escrever uma linha de código — ótimo para entender machine learning na prática.
+
+[Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+### Pac-Man com Webcam
+Jogue Pac-Man controlando o personagem com gestos captados pela sua webcam, usando um modelo de transfer learning rodando direto no navegador (TensorFlow.js).
+
+[Pac-Man Webcam](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
+
+### Extrator de Emoções
+Envie uma foto e veja quem está feliz por estar ali. Demonstração com TensorFlow.js e redes neurais para detectar rostos e classificar emoções.
+
+[Extrator de Emoções](https://brendansudol.github.io/faces/)
+
+### Blob Opera
+Arraste quatro "blobs" coloridos para cima e para baixo e vire regente de uma ópera cantada por IA, treinada com vozes de cantores reais.
+
+[Blob Opera](https://artsandculture.google.com/experiment/blob-opera)
+
+### Doodle Guide
+Faça um rabisco e receba, na hora, um comentário da IA em áudio e imagem — ela desenha uma versão "melhorada" do seu traço e dá dicas de como evoluir.
+
+[Doodle Guide](https://artsandculture.google.com/experiment/doodle-guide/FQFug-9023UsLw?hl=pt-BR)
+
+### National Gallery Mixtape
+Arraste até seis quadros famosos da National Gallery de Londres para uma "partitura" e veja a IA compor uma trilha sonora com base no que sente em cada pintura.
+
+[National Gallery Mixtape](https://artsandculture.google.com/experiment/national-gallery-mixtape/iwHPaSXS-zrryg?hl=pt-BR)
+
+### Talking Tours
+Escolha um lugar no mapa — da Machu Picchu ao Taj Mahal — explore em Street View e ouça um guia narrado por IA, gerado na hora com base no que você está vendo.
+
+[Talking Tours](https://artsandculture.google.com/experiment/talking-tours/8AGlfzgsYmBeIA?hl=pt-BR)
+
+### GenType
+Descreva um estilo ("a letra feita de chocolate derretido") e a IA gera um alfabeto inteiro nesse estilo, letra por letra — dá para regenerar cada letra individual e escrever frases com a fonte criada.
+
+[GenType](https://labs.google/gentype)
+
+### Project Genie
+O experimento mais impressionante da safra 2026 do Google DeepMind: descreva um lugar e a IA gera um mundo 3D explorável em tempo real, que você percorre e pode até alterar com comandos ("chova", "apareça uma porta"). Requer assinatura Google AI Ultra e, por enquanto, só está disponível nos EUA.
+
+[Project Genie](https://labs.google/projectgenie)
+
+### Google Arts & Culture: Play
+Hub central do Google Arts & Culture Lab com dezenas de experimentos culturais e artísticos que usam IA generativa — de música a pintura a reconhecimento de padrões, incluindo os itens acima.
+
+[Play with Google Arts & Culture](https://artsandculture.google.com/play)
+
+### Experiments with Google
+O hub histórico de experimentos de IA do Google, com centenas de protótipos lúdicos publicados desde 2009. Vale explorar — mesmo os experimentos aposentados ficam documentados ali, para nostalgia.
+
+[Experiments with Google](https://experiments.withgoogle.com/)
+
+---
+
+## 💻 Codificação com IA
+
+### Claude Code
+Agente de codificação da Anthropic que roda no terminal (ou integrado ao editor): entende um projeto inteiro, refatora múltiplos arquivos, escreve testes e debuga sozinho a partir de instruções em linguagem natural.
+
+[Claude Code](https://claude.com/claude-code)
+
+### GitHub Copilot
+A ferramenta que popularizou o autocomplete com IA para programadores. Hoje vai muito além disso: tem chat integrado ao editor e um modo agente capaz de implementar tarefas inteiras sozinho.
+
+[GitHub Copilot](https://github.com/copilot/)
+
+### Cursor
+Editor de código construído em cima do VS Code com IA de primeira classe embutida — edição multi-arquivo guiada por chat, autocomplete preditivo e um agente que executa tarefas dentro do próprio editor.
+
+[Cursor](https://cursor.com/)
+
+### v0
+Ferramenta da Vercel que transforma uma descrição em texto (ou um print) em um componente ou aplicativo web funcional, com código pronto para copiar.
+
+[v0](https://v0.dev/)
+
+### Replit
+IDE completo no navegador com o "Replit Agent", que cria, roda e publica projetos do zero a partir de uma descrição, sem precisar instalar nada na máquina.
+
+[Replit](https://replit.com/)
+
+---
+
+## 🤖 Agentes Autônomos & Automação
+
+### Modo Agente do ChatGPT
+Além de conversar, o ChatGPT pode navegar na web, clicar, preencher formulários e completar tarefas de várias etapas sozinho, com supervisão do usuário.
+
+[ChatGPT](https://chatgpt.com/)
+
+### Claude — uso de computador
+A Anthropic também oferece um modo em que o Claude enxerga a tela, organiza arquivos, lê documentos e executa tarefas diretamente no seu dispositivo, sempre pedindo confirmação para ações sensíveis.
+
+[Claude.ai](https://claude.ai/)
+
+### Manus
+Agente autônomo voltado para tarefas longas de múltiplas etapas — pesquisa, planejamento e execução — que roda em segundo plano e reporta o progresso.
+
+[Manus](https://manus.im/)
+
+---
+
+## 🔎 Pesquisa & Conhecimento
+
+### NotebookLM
+Jogue seus PDFs, links e anotações lá dentro e a IA sintetiza, resume e responde perguntas sobre o material — inclusive gerando um "podcast" com dois apresentadores de IA discutindo o conteúdo.
+
+[NotebookLM](https://notebooklm.google.com/)
+
+### Consensus
+Faça uma pergunta do tipo sim/não ("meditação reduz ansiedade?") e receba um "medidor de consenso" científico baseado em artigos revisados por pares, com evidência a favor e contra.
+
+[Consensus App](https://consensus.app/)
+
+### Scite
+Mostra não só quantas vezes um artigo foi citado, mas se cada citação **apoia**, **contradiz** ou apenas **menciona** o trabalho original — contexto real em vez de só contagem.
+
+[Scite](https://scite.ai/)
+
+### Wolfram Alpha
+Motor de conhecimento computacional que responde perguntas em linguagem natural com respostas baseadas em cálculo real, não em texto gerado — ótimo para matemática, ciência e engenharia.
+
+[Wolfram Alpha](https://www.wolframalpha.com/)
+
+### DeepL Translator
+Tradutor que usa IA para traduzir textos com alta precisão e naturalidade, com boa leitura de contexto entre dezenas de idiomas.
+
+[DeepL Translator](https://www.deepl.com/translator)
+
+---
+
+## 🎲 Criativos & Diversos
+
+### Meshy
+Transforma uma descrição em texto em um modelo 3D texturizado em cerca de um minuto — útil para prototipagem rápida, jogos e impressão 3D.
+
+[Meshy](https://www.meshy.ai/)
+
+### Luma Genie
+Gera formas 3D a partir de um prompt em segundos, direto no navegador — uma forma rápida de brincar com geração 3D sem nenhuma curva de aprendizado.
+
+[Luma Genie](https://lumalabs.ai/genie)
+
+### Google Lens
+Aponte a câmera do celular para qualquer objeto, planta, prato de comida ou texto e receba identificação, tradução ou uma busca visual instantânea.
+
+[Google Lens](https://lens.google/)
+
+---
+
+## Como contribuir
+
+Este repositório só se mantém útil se continuar atualizado. Contribuições são bem-vindas:
+
+1. **Adicionar um experimento novo** — abra um PR incluindo nome, link oficial e uma descrição curta em português explicando o que é e por que vale testar. Priorize ferramentas que funcionem "na mão", sem precisar programar, e que tenham camada gratuita ou teste sem custo.
+2. **Reportar um link quebrado** — abra uma issue apontando qual item parou de funcionar. Ferramentas de IA mudam de nome, domínio e dono com frequência.
+3. **Corrigir uma descrição desatualizada** — se uma ferramenta mudou de proposta (ex: virou paga, mudou de foco), um PR pequeno corrigindo o texto já ajuda bastante.
+
+Nem toda ferramenta boa precisa ficar aqui para sempre — parte do valor deste README é justamente podar o que morreu e trazer o que é novo e relevante agora.
